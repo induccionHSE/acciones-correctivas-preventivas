@@ -41,6 +41,6 @@ Sistema digital para el control integral del ciclo de mejora continua: registro,
 ## Autor
  
 **Holman Moreno** — HSEQ Coordinator · Petroleum Engineer
-📧 hmoreno@pbi.com.co
+📧 holman3001@gmail.com
 🔗 [github.com/induccionhse](https://github.com/induccionhse)
  
